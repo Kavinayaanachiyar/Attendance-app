@@ -1,0 +1,15 @@
+input{
+    margin: 20px;
+}
+#sb{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: pink;
+
+}
+#st{
+    display: none;
+    color: lavender;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
